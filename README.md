@@ -2,4 +2,4 @@
 Bot Telegram in JS
 
 
-Primeiro bot da Legion desenvolvido em NodeJS.
+Bot desenvolvido em NodeJS pra Telegram.
