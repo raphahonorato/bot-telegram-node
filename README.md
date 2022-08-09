@@ -2,4 +2,4 @@
 Bot Telegram in JS
 
 
-Bot desenvolvido em NodeJS pra Telegram.
+Bot desenvolvido em NodeJS para Telegram.
